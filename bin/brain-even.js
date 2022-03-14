@@ -1,3 +1,4 @@
-import newGame from '../src/brain-even.js';
+#!/usr/bin/env node
 
-newGame();
+import evenGame from '../src/games/even-logic.js';
+evenGame();
