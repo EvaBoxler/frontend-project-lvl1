@@ -21,7 +21,9 @@
     "node-static": "^0.7.11"
   },
   "bin": {
-    "--input-type": "bin/brain-games.js"
+    "--input-type": "bin/brain-games.js",
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
