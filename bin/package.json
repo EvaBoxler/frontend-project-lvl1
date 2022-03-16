@@ -4,6 +4,11 @@
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/EvaBoxler/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/EvaBoxler/frontend-project-lvl1/actions)",
   "main": "index.js",
+  "bin": {
+    "--input-type": "bin/brain-games.js",
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,11 +24,6 @@
   "homepage": "https://github.com/EvaBoxler/frontend-project-lvl1#readme",
   "dependencies": {
     "node-static": "^0.7.11"
-  },
-  "bin": {
-    "--input-type": "bin/brain-games.js",
-    "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",

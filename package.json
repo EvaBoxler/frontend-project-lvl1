@@ -1,9 +1,12 @@
 {
   "name": "frontend-project-lvl1",
+  "type": "module",
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/EvaBoxler/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/EvaBoxler/frontend-project-lvl1/actions)",
   "main": "index.js",
   "bin": {
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js",
     "frontend-project-lvl1": "bin/brain-even.js"
   },
   "scripts": {
