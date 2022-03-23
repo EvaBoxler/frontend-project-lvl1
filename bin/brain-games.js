@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-return import { userName } from '../src/cli.js';
+import * as cliJs from '../src/cli.js';
