@@ -18,22 +18,22 @@ $ make brain-calc $ make brain-even $ make brain-gcd $ make brain-prime $ make b
 
 Brain-Even Asciinema
 
-[![asciicast](https://asciinema.org/a/wTPAvlFPqduhWWqWGoD0tQ7X9)](https://asciinema.org/a/wTPAvlFPqduhWWqWGoD0tQ7X9)
+[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/wTPAvlFPqduhWWqWGoD0tQ7X9)
                                               
 Brain-Calc Asciinema
 
-[![Watch the video](https://asciinema.org/a/SXFQG8Su2KsgsU45XjeplaBjt)
+[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/SXFQG8Su2KsgsU45XjeplaBjt)
 
 Brain-GCD Asciinema
 
-[![Watch the video](https://asciinema.org/a/MRP61PC3pRy5uHpgC6lFDOD2s)
+[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/MRP61PC3pRy5uHpgC6lFDOD2s)
  
 
 Brain-Progression Asciinema
 
-[![Watch the video](https://asciinema.org/a/VwLU1cwevLpq7fpZBZ5hgsAgl)
+[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/VwLU1cwevLpq7fpZBZ5hgsAgl)
 
 
 Brain-Prime Asciinema
 
-[![Watch the video](https://asciinema.org/a/WWp6TJAjnFbESgOb6HE9OcqmM)                     
+[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/WWp6TJAjnFbESgOb6HE9OcqmM)                 
