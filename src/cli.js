@@ -7,3 +7,4 @@ const brainGame = () => {
   };
   
   export default brainGame;
+  
