@@ -18,7 +18,7 @@ $ make brain-calc $ make brain-even $ make brain-gcd $ make brain-prime $ make b
 
 Brain-Even Asciinema
 
-[![Watch the video](https://asciinema.org/a/wTPAvlFPqduhWWqWGoD0tQ7X9) 
+[![asciicast](https://asciinema.org/a/wTPAvlFPqduhWWqWGoD0tQ7X9)](https://asciinema.org/a/wTPAvlFPqduhWWqWGoD0tQ7X9)
                                               
 Brain-Calc Asciinema
 
