@@ -31,6 +31,7 @@
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
+    "asciinema-player": "^3.0.0-rc.2",
     "eslint": "^8.11.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.25.4",
