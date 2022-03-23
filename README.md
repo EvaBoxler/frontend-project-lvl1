@@ -17,16 +17,23 @@ Play:
 $ make brain-calc $ make brain-even $ make brain-gcd $ make brain-prime $ make brain-progression
 
 Brain-Even Asciinema
+
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://asciinema.org/a/wTPAvlFPqduhWWqWGoD0tQ7X9  )
                                               
 Brain-Calc Asciinema
-https://asciinema.org/connect/71d22c99-8400-444d-80e6-2d67fb0dd61e
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://asciinema.org/connect/71d22c99-8400-444d-80e6-2d67fb0dd61e )
 
 Brain-GCD Asciinema
-https://asciinema.org/connect/71d22c99-8400-444d-80e6-2d67fb0dd61e  
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://asciinema.org/connect/71d22c99-8400-444d-80e6-2d67fb0dd61e )
+ 
 
 Brain-Progression Asciinema
-https://asciinema.org/connect/71d22c99-8400-444d-80e6-2d67fb0dd61e
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://asciinema.org/connect/71d22c99-8400-444d-80e6-2d67fb0dd61e)
+
 
 Brain-Prime Asciinema
-https://asciinema.org/connect/71d22c99-8400-444d-80e6-2d67fb0dd61e
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://asciinema.org/connect/71d22c99-8400-444d-80e6-2d67fb0dd61e)                         
