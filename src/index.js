@@ -10,7 +10,7 @@ const runGame = (description, getQuestionAndCorrectAnswer) => {
 
   console.log(description);
 
-  for (let round = 1; round <= roundsCount; round += 1) {
+  for (let round = 0; round <= roundsCount; round += 1) {
     const { correctAnswer, question } = getQuestionAndCorrectAnswer();
     console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('Your answer: ');
