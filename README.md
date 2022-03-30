@@ -6,7 +6,7 @@
 
 <a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
 
-[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)]https://github.com/EvaBoxler/frontend-project-lvl1.git)
+[![GitHub Super-Linter](https://github.com/EvaBoxler/frontend-project-lvl1.git)](https://github.com/marketplace/actions/super-linter)
 
 "Brain-games" requires Node.js v.13+ to run.
 
