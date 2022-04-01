@@ -5,7 +5,7 @@ const isEven = (num) => (num % 2 === 0);
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
 
 const getQuestionAndCorrectAnswer = () => {
-  const questionToUser = getRandomInRange(1, 100);
+  const questionToUser = getRandomInRange(0, 100);
   return {
     correctAnswer: isEven(questionToUser) ? 'yes' : 'no',
     question: String(questionToUser),
