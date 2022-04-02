@@ -4,8 +4,8 @@ import startGame from '../index.js';
 const description = 'Find the greatest common divisor of given numbers.';
 
 const getGreatestCommonDivisor = (a, b) => {
-  if (!b) {
-    return a;
+  if (a % b === 0) {
+    return b;
   }
   return getGreatestCommonDivisor(b, a % b);
 };
